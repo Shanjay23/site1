@@ -1,0 +1,21 @@
+body{
+    margin:0;
+}
+h1{
+
+    margin-top: 0;
+}
+
+.top-container{
+  background-color: #C3F8FF;
+}
+.middle-container{
+  height: 200px;
+  width: 200px;
+  background-color: pink;
+}
+.bottom-container{
+  height: 200px;
+  width: 200px;
+  background-color: cyan;
+}
